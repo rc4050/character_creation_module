@@ -130,3 +130,6 @@ dmypy.json
 
 # .DS_Store is a file that stores custom attributes of its containing folder (MacOS)
 .DS_Store
+
+# IDE configs
+.vscode
